@@ -1,0 +1,17 @@
+{
+  "name": "menu-education",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "naive-ui": "^2.40.1",
+    "prettier": "^3.3.3",
+    "swiper": "^11.1.14"
+  }
+}
